@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on a new enterprise
 
 You will find my portfolio here --> "This project is still under construction"
+
 You will find below my available projects by following the links ⤵️👌
 
 
