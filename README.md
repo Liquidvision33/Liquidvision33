@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on personnal and professional project 
 
-- 🌱 I’m currently learning PHP 👀
+- 🌱 I’m currently learning PHP, MySQL, Javascript, PDO, Bootstrap 👀
   
 - 👯 I’m looking to work in a enterprise
 
