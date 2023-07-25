@@ -14,6 +14,10 @@ gitHub access -->...
 You will find below my available projects by following the links ⤵️👌
 "All the projects listed below have been carried out with my training colleagues"
 
+🧀 La fromagerie de Caudéran:
+Creation of a showcase website for a cheese dairy. This is my second project for a real client and this time I did it alone. There is a database and a complete management of articles, categories and users through an easy administration available for my client.
+gitHub access -->https://github.com/Liquidvision33/fromageCaud
+
 🧤 Emmaüs Connect internal application :
 Creation of an internal application in 24 hours, to add phones, tablets and computers to a database. On this project, we have prioritized ease of use, user support and the jovial side by using the colors of the Emmaüs connect graphic charter.
 gitHub access -->https://github.com/Davidgbn33/hackaton2
